@@ -3,7 +3,7 @@
 > **Desenvolvido por Synastria Networks**  
 > Painel de Fine-Tuning Interativo | Otimizado para Kaggle GPU T4 x2 | Sem Unsloth & Sem bitsandbytes
 
-[![Discord](https://img.shields.io/badge/Discord-Synastria%20Networks-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wbwj9bBBGa)
+[![Discord](https://img.shields.io/badge/Discord-Synastria%20Networks-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XGBdng6Z4t)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)]()
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.x-orange?style=for-the-badge&logo=pytorch)]()
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow?style=for-the-badge&logo=huggingface)]()
